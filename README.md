@@ -18,8 +18,7 @@ TASK-03 : Create an e-commerce website for a local store in your area, enabling 
 * Purchase Product.
 * Check previous product history.
 
-# Technologies
-# Project is created with:
+# Technologies Project is created with:
 * Frontend - React
 * Server - Node and Express (API Endpoint)
 * Database - Mongo DB
